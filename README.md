@@ -10,5 +10,5 @@ En este repositorio se encuentra un modelo estadístico para fabricantes de lech
 ### Archivos
 ---
 
-- Evidencia_Estadistica.ipynb: En este archivo se encuentra toda la solución y análisis de este proyecto.
-- DATA_VENTAS.xlsx: Dataset conteniendo toda la información que se analiza en el proyecto.
+- ´Evidencia_Estadistica.ipynb´: En este archivo se encuentra toda la solución y análisis de este proyecto.
+- ´DATA_VENTAS.xlsx´: Dataset conteniendo toda la información que se analiza en el proyecto.
